@@ -1,0 +1,5 @@
+{
+  "rubyLsp.formatter": "standard",
+  "editor.formatOnSave": true,
+  "files.autoSaveWorkspaceFilesOnly": true
+}
