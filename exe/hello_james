@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "hello_james"
+
+HelloJames::Cli.run(argv: ARGV)

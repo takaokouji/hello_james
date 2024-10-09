@@ -1,8 +1,5 @@
-# frozen_string_literal: true
+module HelloJames
+end
 
 require_relative "hello_james/version"
-
-module HelloJames
-  class Error < StandardError; end
-  # Your code goes here...
-end
+require_relative "hello_james/cli"
